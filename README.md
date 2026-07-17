@@ -12,6 +12,7 @@ A python game of the FLAMES game i learned in elementary school. This version ha
 To run this game, you will need Python 3 installed on your machine. You will also need the colorama library.
 
 ⋆.𐙚 ̊  Installation
+
 Clone this repo:
 
     git clone https://github.com/Nasvyni/flames-game.git
@@ -21,13 +22,13 @@ Navigate to the project folder:
 Install the required dependencies:
 
     pip install -r requirements.txt
-🎮 How to Play
+⋆.𐙚 ̊   How to Play
 Run the script:
 
-Bash
-python main.py
+    python main.py
+    
 When prompted, type y if you want to use the Simplified Mode, or n for the Visual Mode.
 
-Enter the two names you would like to compare.
+Enter the two names you would like to find the compatibility of
 
-Watch as the program processes the letters and reveals your compatibility result!
+see as the program processes the letters and reveals your compatibility result !!!!
