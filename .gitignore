@@ -1,0 +1,14 @@
+# Python junk
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment/Setup
+venv/
+.env
+.vscode/
+.idea/
+
+# OS specific files
+.DS_Store
+Thumbs.db
